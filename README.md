@@ -6,9 +6,9 @@ It is a DESIGN PATTERNS PROJECT which includes 5 Major Patterns which are Abstra
 security alarms will be located.
 2. We have created Login/Sign-Up functionality using SQL which stores the data and pulls from it. 
 3. There are two types of sensors - BreakIn and Fire Alarms.
-4. User has the full authority to activate and deactivate respective Security Alarms whenever they wish too.
+4. The user has the full authority to activate and deactivate respective Security Alarms whenever they wish too.
 5. There is a demo where we illustrate a real scenario where incase of a break-in what exactly will happen.
-6. There will be customer bill generated on checkout. <br>
+6. There will be customer bill generated at checkout. <br>
 
 ## Technologies Used
 ### Java8
