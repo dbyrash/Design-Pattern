@@ -11,6 +11,9 @@ security alarms will be located.
 6. There will be customer bill generated on checkout. <br>
 
 ## Technologies Used
-### Java8 - <br> The application had backbone support of Java8.
-### JavaFx - <br>Tool used for creating GUI.
-### SQL - <br>Tool used for Database Connectivity with JDBC.
+### Java8
+The application had backbone support of Java8.
+### JavaFx 
+Tool used for creating GUI.
+### SQL
+Tool used for Database Connectivity with JDBC.
